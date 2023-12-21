@@ -8,11 +8,10 @@ In response to this decline, the managing director recognizes the urgent need fo
 To address this imperative, the revenue management team has initiated plans to engage a third-party service provider. This provider will leverage historical data to extract insights essential for informing strategic decisions.
 Provided Dashboard
 
-
-![Uploading Screenshot (331).png…]()
+![dashbord](https://github.com/NikhilA8606/Revenue-insights-in-hospitality-domain/assets/115739037/1e84c91e-6016-4672-a51b-ed009215f189)
 
 Final DashBoard
+![Screenshot (332)](https://github.com/NikhilA8606/Revenue-insights-in-hospitality-domain/assets/115739037/dcafeb1e-38c1-4b82-af8b-6cfb116520fe)
 
 
-![Uploading Screenshot (332).png…]()
 
